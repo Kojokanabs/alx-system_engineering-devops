@@ -1,2 +1,2 @@
 #!/bin/bash
-mrdir my_dir
+mrdir my_dir chmod 751
