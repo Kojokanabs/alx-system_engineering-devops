@@ -1,1 +1,15 @@
 bet delete
+Hello W
+Is flag n
+Isflag n
+tmp task
+6-firstdirectory
+7-movethatfile
+tmp first
+Is_a_n
+7-movethatfile
+betty first
+bet first
+move betty
+delete bet
+going bet
