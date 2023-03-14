@@ -10,3 +10,4 @@ ls_a_n
 betty first
 bet first
 move betty
+delete bet
