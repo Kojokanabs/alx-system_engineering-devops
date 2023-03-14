@@ -5,3 +5,4 @@ tmp task
 6-firstdirectory
 7-movethatfile
 tmp first
+ls_a_n
