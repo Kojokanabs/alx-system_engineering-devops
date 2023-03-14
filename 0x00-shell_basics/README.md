@@ -18,3 +18,4 @@ dir delete
 Fdd
 going back
 back
+previous dir
