@@ -6,3 +6,4 @@ tmp task
 7-movethatfile
 tmp first
 ls_a_n
+7-movethatfile
