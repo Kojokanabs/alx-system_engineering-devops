@@ -21,3 +21,4 @@ back
 previous dir
 get back
 hidden files
+Print file
