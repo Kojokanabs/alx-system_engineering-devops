@@ -24,3 +24,4 @@ hidden files
 Print file
 create link
 create html file
+display a file
