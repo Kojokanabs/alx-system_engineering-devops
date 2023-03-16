@@ -10,3 +10,4 @@ cgv
 true K
 divid
 love
+decimal
