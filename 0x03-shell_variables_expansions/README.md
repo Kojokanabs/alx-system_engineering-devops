@@ -6,3 +6,4 @@ global v
 new dep
 create
 global variable
+cgv
