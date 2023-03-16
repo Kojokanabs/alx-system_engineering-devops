@@ -11,3 +11,5 @@ true K
 divid
 love
 decimal
+letter
+2 decimal
