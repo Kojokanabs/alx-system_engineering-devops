@@ -30,3 +30,4 @@ new
 fine
 abijor
 uppercase
+clealing
