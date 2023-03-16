@@ -29,3 +29,4 @@ special characters
 new
 fine
 abijor
+uppercase
