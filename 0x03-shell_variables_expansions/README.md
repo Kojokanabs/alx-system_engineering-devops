@@ -9,3 +9,4 @@ global variable
 cgv
 true K
 divid
+love
