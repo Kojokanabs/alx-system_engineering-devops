@@ -1,1 +1,2 @@
 create A
+print user
