@@ -3,3 +3,4 @@ special character
 display f
 dispalay two files
 Tail
+first ten
