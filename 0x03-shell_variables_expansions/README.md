@@ -8,3 +8,4 @@ create
 global variable
 cgv
 true K
+divid
