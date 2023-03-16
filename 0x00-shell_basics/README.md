@@ -28,3 +28,4 @@ display a file
 special characters
 new
 fine
+abijor
