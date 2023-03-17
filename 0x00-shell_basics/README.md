@@ -32,3 +32,4 @@ abijor
 uppercase
 clealing
 directories
+new dir
