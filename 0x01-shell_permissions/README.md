@@ -4,3 +4,4 @@ hello permit
 sub changes
  user change
 synbolic_link
+symbolic_limk
