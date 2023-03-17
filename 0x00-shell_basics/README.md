@@ -33,3 +33,4 @@ uppercase
 clealing
 directories
 new dir
+list dir
