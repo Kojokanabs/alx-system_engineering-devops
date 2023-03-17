@@ -31,3 +31,4 @@ fine
 abijor
 uppercase
 clealing
+directories
