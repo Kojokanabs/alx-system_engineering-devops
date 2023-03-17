@@ -34,3 +34,4 @@ clealing
 directories
 new dir
 list dir
+magic files
