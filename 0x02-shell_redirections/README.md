@@ -7,3 +7,4 @@ first ten
 3rd line
 wild card
 8-cwd_state
+dupletecate
