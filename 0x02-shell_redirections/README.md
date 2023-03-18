@@ -15,3 +15,4 @@ display list
 display lines
 number of lines
 display lines by pattern
+dont follow pattern
