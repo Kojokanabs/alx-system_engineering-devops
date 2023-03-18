@@ -11,3 +11,4 @@ dupletecate
 deteting .js
 word count
 new files
+display list
