@@ -14,3 +14,4 @@ new files
 display list
 display lines
 number of lines
+display lines by pattern
