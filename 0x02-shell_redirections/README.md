@@ -5,3 +5,5 @@ dispalay two files
 Tail
 first ten
 3rd line
+wild card
+8-cwd_state
