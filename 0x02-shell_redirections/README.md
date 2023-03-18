@@ -9,3 +9,4 @@ wild card
 8-cwd_state
 dupletecate
 deteting .js
+word count
