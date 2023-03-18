@@ -17,3 +17,4 @@ number of lines
 display lines by pattern
 dont follow pattern
 start with letter
+change letters
