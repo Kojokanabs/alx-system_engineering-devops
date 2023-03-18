@@ -18,3 +18,4 @@ display lines by pattern
 dont follow pattern
 start with letter
 change letters
+remove
