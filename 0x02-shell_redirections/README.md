@@ -13,3 +13,4 @@ word count
 new files
 display list
 display lines
+number of lines
