@@ -21,3 +21,4 @@ change letters
 remove
 go back
 display all users
+all users
